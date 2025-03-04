@@ -1,0 +1,8 @@
+fake_useragent
+fp
+free_proxy
+requests
+selenium
+selenium_wire
+webdriver_manager
+PyQt5
